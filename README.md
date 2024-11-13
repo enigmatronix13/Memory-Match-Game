@@ -32,4 +32,8 @@ Once it’s cloned, navigate to the project folder:
 cd Memory-Match-Game
 ```
 
-From there, just compile and run the Java files to start the game!
+From the project directory, compile and run the Java file to start the game!
+
+```bash
+javac MemoryMatchGame.java
+java MemoryMatchGame
