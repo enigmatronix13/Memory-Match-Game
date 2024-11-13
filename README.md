@@ -20,16 +20,16 @@ Open your terminal and enter:
 
 ```bash
 # Clone the repo with HTTPS
-git clone https://github.com/your-username/memory-match-game.git
+git clone https://github.com/enigmatronix13/Memory-Match-Game.git
 
 # or with SSH if you have SSH set up
-git clone git@github.com:your-username/memory-match-game.git
+git clone git@github.com:enigmatronix13/Memory-Match-Game.git
 ```
 
 Once it’s cloned, navigate to the project folder:
 
 ```bash
-cd memory-match-game
+cd Memory-Match-Game
 ```
 
 From there, just compile and run the Java files to start the game!
