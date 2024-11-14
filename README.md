@@ -1,4 +1,4 @@
-This is a Memory Match Game my teammates and I created for our Object-Oriented Programming project in Java. The game has a clean GUI using `Swing`, and it’s pretty fun — you just click and match pairs of cards on a 4x4 grid. We aimed to make it interactive and modular, using OOP concepts to keep everything organized.
+This is a Memory Match Game my teammates and I created for our Object-Oriented Programming project in Java. The game has a clean GUI, and it’s pretty fun — you just click and match pairs of cards on a 4x4 grid. We aimed to make it interactive and modular, using OOP concepts to keep everything organized.
 
 ### How It Works
 - The game starts with a grid of face-down cards, each hiding a unique image.
