@@ -1,3 +1,5 @@
+# Memory Match Game
+
 Memory Match Game created for an Object-Oriented Programming course project in Java. Features a clean GUI where players click to match pairs of cards on a 4x4 grid. The game is designed to be interactive and modular, utilizing core OOP principles such as interfaces, abstract classes, multithreading, and custom exception handling.
 
 ---
